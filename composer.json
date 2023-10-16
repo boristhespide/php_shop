@@ -1,0 +1,18 @@
+{
+    "name": "alexa/php_oop_shop",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Alexa\\PhpOopShop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "boristhespide",
+            "email": "skajitepochtu@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-pdo": "*"
+    }
+}
